@@ -1,5 +1,0 @@
-Manipulating strings and learn to use string functions efficiently on C. Every device connected to the internet or a local network has a unique identifier address called
-Internet Protocol (IP). The Domain Name System (DNS) matches these IP addresses with specific domain
-names. DNS servers store IP addresses and their corresponding domain names. In other words, when we try
-to fetch the data of a website, we enter a hostname URL, then DNS servers translate this URL to the exact
-IP address we need.
